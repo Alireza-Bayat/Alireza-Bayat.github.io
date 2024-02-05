@@ -1659,3 +1659,23 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+
+.education-item {
+            margin-bottom: 20px;
+        }
+
+        .university {
+            font-weight: bold;
+            font-size: 1.2em;
+            color: #333;
+        }
+
+        .degree {
+            font-weight: bold;
+            color: #555;
+        }
+
+        .graduation-date {
+            color: #777;
+        }
